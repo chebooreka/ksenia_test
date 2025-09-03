@@ -1,5 +1,4 @@
 import asyncio
-import logging
 from typing import Optional, List
 
 from browser.browser_manager import launch_browser_context
